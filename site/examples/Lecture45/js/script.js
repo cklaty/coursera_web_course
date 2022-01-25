@@ -1,5 +1,16 @@
 // Object creation
-var company = new Object();
+// var company = new Object();
+// company.name = "Facebook";
+// company.ceo = new Object();
+// company.ceo.firstName = "Mark";
+// company.ceo.favColor = "blue";
+// console.log(company);
+// console.log("Company CEO name is: " 
+// 	+ company.ceo.firstName);
+
+// console.log(company["name"])
+// company.$stock = 110;
+
 company.name = "Facebook";
 company.ceo = new Object();
 company.ceo.firstName = "Mark";
